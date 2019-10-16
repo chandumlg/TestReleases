@@ -2,5 +2,5 @@
 package main
 
 func main() {
-  println("Hello, World! abc")
+  println("Hello, World! abc removed")
 }
