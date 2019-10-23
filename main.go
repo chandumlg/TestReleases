@@ -8,5 +8,5 @@ import (
 
 func main() {
   println("Hello, World! abc removed")
-  println("go mod tidy hook")
+  println("go mod ")
 }
